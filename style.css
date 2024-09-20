@@ -1,0 +1,6 @@
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px black solid;
+    border-radius: 5px;
+    padding: 10px;
+}
